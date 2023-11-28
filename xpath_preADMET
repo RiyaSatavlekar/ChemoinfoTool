@@ -1,0 +1,4 @@
+//*[@id="example"]/tbody/tr[1]/td[3]
+//*[@id="example"]/tbody/tr[3]/td[3]
+//*[@id="example"]/tbody/tr[10]/td[3]
+//*[@id="example"]/tbody/tr[11]/td[3]

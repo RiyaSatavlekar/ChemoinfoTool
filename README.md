@@ -1,2 +1,2 @@
-# ChemoinformaticsTool
-Building a dataset of all the approved drugs, along with their ADME properties for a particular disease from publicly available biological databases
+<h2> ADME-webscraper-python-chemoinformatics </h2>
+<h4><i><b>Web scraper for ADMET properties of small drug molecules using SwissADME and PreADMET.</b></i></h4>

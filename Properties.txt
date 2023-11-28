@@ -1,0 +1,16 @@
+Molecular weight
+Num. of heavy atoms
+Num. arom. heavy atoms
+Num. rotatable bonds
+Num. H-bond acceptors
+Num. H-bond donors
+Molar Refractivity
+TSPA
+BBB
+CaCO2
+HIA
+MDCK
+Ames_test
+Carcino_mouse
+HERG_inhibition
+TA100_10RLI

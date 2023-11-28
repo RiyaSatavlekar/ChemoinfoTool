@@ -1,0 +1,8 @@
+//*[@id="sib_body"]/div[11]/div[1]/div[3]/table[2]/tbody/tr[3]/td[2]
+//*[@id="sib_body"]/div[11]/div[1]/div[3]/table[2]/tbody/tr[4]/td[2]
+//*[@id="sib_body"]/div[11]/div[1]/div[3]/table[2]/tbody/tr[5]/td[2]
+//*[@id="sib_body"]/div[11]/div[1]/div[3]/table[2]/tbody/tr[7]/td[2]
+//*[@id="sib_body"]/div[11]/div[1]/div[3]/table[2]/tbody/tr[8]/td[2]
+//*[@id="sib_body"]/div[11]/div[1]/div[3]/table[2]/tbody/tr[9]/td[2]
+//*[@id="sib_body"]/div[11]/div[1]/div[3]/table[2]/tbody/tr[10]/td[2]
+//*[@id="sib_body"]/div[11]/div[1]/div[3]/table[2]/tbody/tr[11]/td[2]
